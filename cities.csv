@@ -1,0 +1,603 @@
+﻿内网IP,Intranet IP
+福州市,Fuzhou
+墨尔本,Melbourne
+广州市,Guangzhou
+曼谷,Bangkok
+珠海市,Zhuhai
+东京,Tokyo
+北京市,Beijing
+浦那,Pune
+孟买,Mumbai
+海得拉巴,Hyderabad
+加尔各答,Calcutta
+诺伊达,Noida
+西隆,Shillong Airport
+首尔,Seoul
+长春市,Changchun
+大连市,Dalian
+印多尔,Indore
+钦奈,Chennai
+班加罗尔,Bangalore
+勒克瑙,Lucknow
+德里,Delhi
+苏拉特,Surat
+古尔冈,GURUGRAM
+新德里,New Delhi
+维沙卡帕特南,Visakhapatnam
+斋浦尔,Jaipur
+呼和浩特市,Hohhot
+锡林郭勒,Xilingol
+包头市,Baotou
+乌兰察布市,Ulanqab
+阿拉善,Alxa
+巴彦淖尔市,Bayannur
+兴安盟,Hinggan League
+鄂尔多斯市,Ordos City
+乌海市,Wuhai
+呼伦贝尔市,Hulunbuir
+通辽市,Tongliao
+赤峰市,Chifeng
+香港,Hong Kong
+台湾,Taiwan
+圣何塞,San Jose
+大阪,ŌSAKA
+布里斯班,Brisbane
+安顺市,Anshun
+黔南,Qiannan Buyei and Miao Autonomous Prefecture
+铜仁,Tongren
+毕节,Bijie
+遵义市,Zunyi
+黔西南,Qianxinan Buyei and Miao Autonomous Prefecture
+六盘水市,Liupanshui
+银川市,Yinchuan
+中卫市,Zhongwei
+固原市,Guyuan
+吴忠市,Wuzhong
+南京市,Nanjing
+常州市,Changzhou
+滁州市,Chuzhou
+合肥市,Hefei
+济南市,Jinan
+潍坊市,Weifang
+德州市,Dezhou
+胡志明,Ho Chi Minh City
+鹤岗市,Hegang
+牡丹江市,Mudanjiang
+绥化市,Suihua
+齐齐哈尔市,Qiqihar
+双鸭山市,Shuangyashan
+鸡西市,Jixi
+哈尔滨市,Harbin
+大庆市,Daqing
+佳木斯市,Jiamusi
+黑河市,Heihe
+七台河市,Qitaihe
+伊春市,Yichun
+大兴安岭,Daxing'anling Prefecture
+太原市,Taiyuan 
+长治市,Changzhi
+运城市,Yuncheng
+晋中市,Jinzhong
+忻州市,Xinzhou
+晋城市,Jincheng
+朔州市,Shuozhou
+阳泉市,Yangquan
+西安市,Xi'an
+咸阳市,Xianyang
+商洛市,Shangluo
+铜川市,Tongchuan
+渭南市,Weinan
+汉中市,Hanzhong
+安康市,Ankang
+榆林市,Yulin
+宝鸡市,Baoji
+延安市,Yan'an
+上海市,Shanghai
+珀斯,Perth
+阿德莱德,Adelaide
+深圳市,Shenzhen
+南宁市,Nanning
+桂林市,Guilin
+纳西克,Nashik
+斯利那加,Srinagar
+巴特那,Patna
+郑州市,Zhengzhou
+三门峡市,Sanmenxia
+新乡市,Xinxiang
+南阳市,Nanyang
+濮阳市,Puyang
+驻马店市,Zhumadian
+商丘市,Shangqiu
+洛阳市,Luoyang
+漯河市,Luohe
+开封市,Kaifeng
+信阳市,Xinyang
+周口市,Zhoukou
+鹤壁市,Hebi
+平顶山市,Pingdingshan
+安阳市,Anyang
+焦作市,Jiaozuo
+许昌市,Xuchang
+济源,Jiyuan
+贵阳市,Guiyang
+黔东南,Qiandongnan Miao and Dong Autonomous Prefecture
+阿姆斯特丹,Amsterdam
+法兰克福,Frankfurt
+马德里,Madrid
+莫斯科,Moscow
+米兰,Milan
+布拉格,Prague
+伦敦,London
+费城,Philadelphia
+约翰内斯堡,Johannesburg
+圣保罗,Sao Paulo
+阿什本,Ashburn
+悉尼,Sydney
+洛杉矶,Los Angeles
+西雅图,Seattle
+纽约,New York
+休斯顿,Houston
+麦迪逊,Madison
+旧金山,San Francisco
+圣路易斯,St. Louis
+特伦顿,Trenton
+蒙特利,Monterey
+奥克兰,Oakland
+亚特兰大,Atlanta
+蒙哥马利,Montgomery
+哥伦布,Columbus
+辛辛那提,Cincinnati
+芝加哥,Chicago
+达拉斯,Dallas
+圣莫尼卡,Santa Monica
+凤凰城,Phoenix
+丹佛,Denver
+盐湖城,Salt Lake City
+波士顿,Boston
+华盛顿特区,"Washington, D.C"
+蒙特利尔,Montreal
+底特律,Detroit
+迈阿密,Miami
+康普顿,Compton
+多伦多,Toronto
+圣地亚哥,San Diego
+里士满,Richmond
+利特尔顿,Littleton
+安那罕,Anaheim
+纳什维尔,Nashville
+贝克斯菲尔德,Bakersfield
+夏洛特,Charlotte
+萨克拉门托,Sacramento
+普罗维登斯,Providence
+圣克拉拉,Santa Clara
+圣彼得堡,St. Petersburg
+堪萨斯城,Kansas City
+山景,Mountain View
+博阿努瓦,Boanuwa
+哈里斯堡,Harrisburg
+塔拉哈西,Tallahassee
+印第安纳波利斯,Indianapolis
+卡尔加里,Calgari
+长滩,Long Beach
+帕萨迪纳,Pasadena
+兰辛,Lansing
+杰克逊,Jackson
+圣费尔南多,San Fernando
+林肯,Lincoln
+杭州市,Hangzhou
+青岛市,Qingdao
+迪拜,Dubai
+张家口市,Zhangjiakou
+新奥尔良,New Orleans
+森尼韦尔,Sunnyvale
+巴吞鲁日,Baton Rouge
+奥斯汀,Austin
+奥尔巴尼,Albany
+特洛伊,Troy
+波莫纳,Pomona
+阿罕布拉,Alhambra
+安克雷奇,Anchorage
+好莱坞,Hollywood
+查尔斯顿,Charleston
+雷德蒙德,Redmond
+圣菲,Santa Fe
+费利蒙,Fremont
+塞勒姆,Salem
+奥古斯塔,Augusta
+斯普林菲尔德,Springfield
+檀香山,Honolulu
+小石城,Clinton National Airport
+尤里卡,Eureka
+塔科马,Tacoma
+康科德,Concord
+杰斐逊城,Jefferson City
+海伦娜,Helena
+多佛,Dover
+朱诺,Junor
+得梅因,Des Moines
+博伊西,Boise
+夏延,Cheyenne
+魁北克,Quebec
+赛城,Racing City
+马尼拉,Manila
+京都,Kyoto
+惠州市,Huizhou
+东莞市,Dongguan
+佛山市,Foshan
+中山市,Zhongshan
+云浮市,Yunfu
+肇庆市,Zhaoqing
+潮州市,Chaozhou
+茂名市,Maoming
+汕尾市,Shanwei
+梅州市,Meizhou
+汕头市,Shantou
+阳江市,Yangjiang
+河源市,Heyuan
+揭阳市,Jieyang
+江门市,Jiangmen
+清远市,Qingyuan
+那格浦尔,Nagpur
+本地治里,Puducherry
+雅加达,Jakarta
+法里达巴德,Faridabad
+重庆市,Chongqing
+湛江市,Zhanjiang
+韶关市,Shaoguan
+石嘴山市,Shizuishan
+西姆拉,Shimla
+博帕尔,Bhopal
+阿穆达巴,Amundabad
+三联市,TRICITY
+第斯普尔,Dispur
+哥印拜陀,Coimbatore
+维杰亚瓦达,Vijayawada
+成都市,Chengdu
+沈阳市,Shenyang
+石家庄市,Shijiazhuang
+温州市,Wenzhou
+昆明市,Kunming
+西双版纳,Xishuangbanna Dai Autonomous Prefecture
+曲靖市,Qujing
+临沧市,Lincang
+昭通市,Zhaotong
+迪庆,Diqing
+保山市,Baoshan
+红河,Red River
+普洱市,Pu'er City
+玉溪市,Yuxi
+大理,Dali
+楚雄,Chuxiong
+德宏,Dehong Dai and Jingpo Autonomous Prefecture
+天津市,Tianjin
+温哥华,Vancouver
+坎卢普斯,Kamloops
+维多利亚,Victoria
+素里,Suri
+本那比,Burnaby
+基洛纳,Kelowna
+埃德蒙顿,Edmonton
+尤凯亚,Ukiah
+内珀维尔,Naperville
+哈特福德,Hartford
+澳门,Macau
+哈利法克斯,Halifax
+温尼伯,Winnipeg
+哈密尔顿,Hamilton
+米尔顿,Milton
+圣凯瑟琳斯,St. Catharines
+温莎,Windsor
+伯灵顿,Burlington
+贝尔维尔,Belleville
+奥克维尔,Oakville
+托皮卡,Topeka
+布兰普顿,Brampton
+泗水,Surabaya
+基奇纳,Kitchener
+渥太华,Ottawa
+密西沙加,Mississauga
+纽马克特,Newmarket
+波特兰,Portland
+科斯塔梅萨,Costa Mesa
+巴里,Bari
+康沃尔,Cornwall
+里贾纳,Regina
+萨斯卡通,Saskatoon
+桑德贝,Thunder Bay
+北温哥华,North Vancouver
+俾斯麦,Otto von Bismarck
+圭尔夫,Guelph
+弗雷德里克顿,Fredericton
+布兰特福德,Brantford
+剑桥,Cambridge
+圣约翰,St. John
+夏洛特敦,Charlottetown
+彼得伯勒,Peterborough
+布罗克维尔,Brockville
+蒙彼利埃,Montpellier
+卡森城,Carson City
+北湾,North Bay
+皮尔,Pure
+哥伦比亚,Colombia
+无锡市,Wuxi City
+黄冈市,Huanggang City
+武汉市,Wuhan
+荆州市,Jingzhou City
+宜昌市,Yichang City
+襄阳,Fuyang
+孝感市,Xiaogan City
+黄石市,Huangshi
+咸宁市,Xianning
+恩施,Enshi City
+荆门市,Jingmen
+十堰市,Shiyan
+鄂州市,Ezhou
+随州市,Suizhou
+登巴萨,Denpasar
+拉萨市,Lhasa
+昌都,Qamdo
+山南,Shannan
+阿里地区,Ngari Prefecture
+那曲,Nagchu
+林芝,Nyingchi
+日喀则,Shigatse
+巴淡岛,Batam
+北干巴鲁,Pekanbaru
+衡水市,Hengshui
+唐山市,Tangshan
+保定市,Baoding
+邯郸市,Handan
+廊坊市,Langfang
+秦皇岛市,Qinhuangdao
+沧州市,Cangzhou
+邢台市,Xingtai
+承德市,Chengde
+厦门市,Xiamen
+南平市,Nanping
+三明市,Sanming
+宁德市,Ningde
+莆田市,Putian
+泉州市,Quanzhou
+漳州市,Zhangzhou
+龙岩市,Longyan
+烟台市,Yantai
+淄博市,Zibo
+聊城市,Liaocheng
+临沂市,Linyi
+济宁市,Jining
+泰安市,Tai'an
+东营市,Dongying
+威海市,Weihai
+莱芜市,Laiwu
+枣庄市,Zaozhuang
+菏泽市,Heze
+滨州市,Binzhou
+定西市,Dingxi
+临夏,Linxia
+甘南,Gannan
+平凉市,Pingliang
+庆阳市,Qingyang
+嘉峪关市,Jiayuguan City
+天水市,Tianshui
+兰州市,Lanzhou
+武威市,Wuwei
+金昌市,Jinchang
+酒泉市,Jiuquan
+白银市,Baiyin
+张掖市,Zhangye
+陇南市,Longnan
+海口市,Haikou
+宿州市,Suzhou
+铜陵市,Tongling
+亳州市,Bozhou
+黄山市,Huangshan City
+蚌埠市,Bengbu
+淮北市,Huaibei
+六安市,Lu'an
+宣城市,Xuancheng
+安庆市,Anqing
+宁波市,Ningbo
+嘉兴市,Jiaxing
+金华市,Jinhua
+绍兴市,Shaoxing
+丽水市,Lishui
+湖州市,Huzhou
+衢州市,Quzhou
+台州市,Taizhou
+阜阳市,Fuyang
+马鞍山市,Ma'anshan
+池州市,Chizhou
+淮南市,Huainan
+芜湖市,Wuhu
+勿加泗,Bekasi
+吉林市,Jilin City
+延边,Yanbian
+四平市,Siping
+白城市,Baicheng
+辽源市,Liaoyuan
+松原市,Songyuan
+白山市,Baishan
+通化市,Tonghua
+万隆,Bandung
+巴厘巴板,Balikpapan
+坤甸,Pontianak
+巨港,Giant harbor
+占碑,Occupation Stele
+安汶,Amun
+万鸦老,Manado
+日惹,Yogyakarta
+古邦,Kupang
+茂物,Bogor
+和田,Wada
+克孜勒苏,Kizilsu Kirghiz Autonomous Prefecture
+阿勒泰,Altay
+博尔塔拉,Bortala Mongol Autonomous Prefecture
+巴音郭楞,Bayingolin Mongol Autonomous Prefecture
+哈密,Hami
+昌吉,Changji
+阿克苏,Aksu
+塔城,Tacheng
+海南,Hainan
+西宁市,Xining
+海东,Haidong
+黄南,Huangnan Tibetan Autonomous Prefecture
+海西,Hershey
+海北,Haibei
+果洛,Guero
+玉树,Yushu
+三亚市,Sanya
+儋州,Danzhou
+克拉玛依市,Karamay
+伊犁,Ili Kazakh Autonomous Prefecture
+喀什,Kashgar
+吐鲁番,Turpan
+乌鲁木齐市,Urumqi
+长沙市,Changsha
+朝阳市,Chaoyang
+苏州市,Suzhou
+南通市,Nantong City
+盐城市,Yancheng
+徐州市,Xuzhou
+镇江市,Zhenjiang
+淮安市,Huai'an
+扬州市,Yangzhou
+泰州市,Taizhou
+连云港市,Lianyungang
+宿迁市,Suqian
+郴州市,Chenzhou
+岳阳市,Yueyang
+常德市,Changde
+邵阳市,Shaoyang
+怀化市,Huaihua
+湘潭市,Xiangtan
+益阳市,Yiyang
+永州市,Yongzhou
+株洲市,Zhuzhou
+张家界市,Zhangjiajie
+娄底市,Loudi
+衡阳市,Hengyang
+湘西,Xiangxi
+钦州市,Qinzhou
+贺州市,Hezhou
+贵港市,Guigang
+防城港市,Fangchenggang
+崇左市,Chongzuo
+柳州市,Liuzhou
+南昌市,Nanchang
+抚州市,"Fuzhou, Jiangxi"
+萍乡市,Pingxiang
+上饶市,Shangrao
+赣州市,Ganzhou
+宜春市,Yichun
+景德镇市,Jingdezhen
+吉安市,Ji'an
+九江市,Jiujiang
+新余市,Xinyu
+滑铁卢,Waterloo
+日照市,Rizhao
+文山,Wenshan Zhuang and Miao Autonomous Prefecture
+丽江市,Lijiang
+怒江,Nujiang Lisu Autonomous Prefecture
+锦州市,Jinzhou
+抚顺市,Fushun
+铁岭市,Tieling
+葫芦岛市,Huludao
+阜新市,Fuxin
+盘锦市,Panjin
+鞍山市,Anshan
+丹东市,Dandong
+本溪市,Benxi
+辽阳市,Liaoyang
+营口市,Yingkou
+鹰潭市,Yingtan
+舟山市,Zhoushan
+堪培拉,Canberra
+马塔兰,Mataram
+瓦多达拉,Vadodara
+阿加尔塔拉,Agartala
+绵阳市,Mianyang
+自贡市,Zigong
+凉山,Liangshan
+来宾市,Laibin
+艾藻尔,Aizawl
+棉兰,Medan
+科希马,Kohima
+达曼,Dammam
+柔似蜜,Rosemead
+阳光海岸,Sunshine coast
+班达楠榜,Bandar Lampung
+巴东,Padang
+马利布,Malibu
+甘托克,Gangtok
+三宝垄,Semarang
+安纳波利斯,Annapolis
+麦克默里堡,Fort McMurray
+加蒂诺,Gatineau
+怀特霍斯,Whitehorse
+玉林市,Yulin
+汤斯维尔,Townsville
+达尔文,Darwin
+图文巴,Tu Wemba
+纽卡斯尔,Newcastle
+吉朗,Geelong
+霍巴特,Hobart
+黄金海岸,Gold Coast
+大同市,Datong
+临汾市,Linfen
+吕梁市,Lüliang
+锡尔瓦萨,Silvassa
+德阳市,Deyang
+南充市,Nanchong
+泸州市,Luzhou
+攀枝花市,Panzhihua
+内江市,Neijiang
+宜宾市,Yibin
+乐山市,Leshan
+雅安市,Ya'an
+遂宁市,Suining
+达州市,Dazhou
+巴中市,Bazhong
+广元市,Guangyuan
+广安市,Guang'an
+眉山市,Meishan
+百色市,Baise
+梧州市,Wuzhou
+河池市,Hechi
+北海市,Beihai
+资阳市,Ziyang
+甘孜,Garz
+里弗顿,Riverton
+奥林匹亚,Olympia
+圣朗贝尔,Saint-Lambert
+耶洛奈夫,Yellowknife
+伊卡卢伊特,Iqaluit
+阿萨巴斯卡,Athabasca
+大熊湖,Big Bear Lake
+库比蒂诺,Cupertino
+若列特,Joliette
+伊努维克,Inuvik
+阿坝,Ngawa Tibetan and Qiang Autonomous Prefecture
+玛琅,Malang
+迈索尔,Mysore
+马辰,Ma Chen
+哥伦打洛,Gorontalo
+德波,Depok
+班达亚齐,Banda Aceh
+肯达里,Kendari
+麦凯,Mackay
+望加锡,Makassar
+马杜赖,Madurai
+纳尔德韦克,Nardvik
+直名丁宜,Tebingtinggi
+巴拉瑞特,Ballarat
+西冷,West Cold
+帕卢,Palu
+柯钦,Cochin
+丹戎槟榔,Tanjung Pinang
+塔那,Tana
+帕朗卡拉亚,Palangkaraya
+汉诺威,Hanover
+沃尔夫维尔,Wolfwil
+安蒂戈尼什,Antigone
+霍利奥克,Holyoke
+圣贝纳迪诺,San Bernardino
